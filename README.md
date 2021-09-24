@@ -2,4 +2,4 @@
 - 👀 I’m interested in software development and Artificial Intelligence.
 - 🌱 I’m currently learning Software Engineering and Data Mining topics
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me: randyreynahernandez@gmail.com
+- 📫 How to reach me: randyrh91@gmail.com
